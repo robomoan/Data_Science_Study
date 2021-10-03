@@ -37,3 +37,5 @@
  - 8월 15일 일요일 - [핸즈온 머신러닝 챕터 12-3, 12-4](https://github.com/robomoan/Data_Science_Study/blob/main/Handson_ML/%ED%95%B8%EC%A6%88%EC%98%A8%2012-2%EC%9E%A5%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf) (사용자 정의 모델·알고리즘, 텐서플로 함수와 그래프)
 
  - 9월 5일 일요일 - [핸즈온 머신러닝 챕터 15-4](https://github.com/robomoan/Data_Science_Study/blob/main/Handson_ML/%ED%95%B8%EC%A6%88%EC%98%A8%2015-4%EC%9E%A5%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) (긴 시퀀스 처리, LSTM, GRU, WAVENET)
+
+ - 10월 3일 일요일 - [핸즈온 머신러닝 17-1~7](https://github.com/robomoan/Data_Science_Study/blob/main/Handson_ML/%ED%95%B8%EC%A6%88%EC%98%A8%2017-1%EC%9E%A5%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf) (오토인코더)
